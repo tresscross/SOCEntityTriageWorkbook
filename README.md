@@ -6,8 +6,10 @@ The SOC Entity Triage workbook is designed to enhance the triage process for sec
 ## Features
 - **Entity Analysis**: Analyze different entity types including private and public IP addresses, hostnames, AD users, and email accounts.
 - **Interactive Visualizations**: Utilize KQL (Kusto Query Language) to query Azure Sentinel data and visualize the results in a user-friendly manner.
+- **Quickly Pivot**: Utilizes query export, allowing you to open the query in a Log Analytics tab with the current parameters to dive into the logs.
 - **Customizable Time Range**: Filter data within specific time frames to focus on the events relevant to your investigation.
 - **Comprehensive Data Points**: Access detailed information on security alerts, sign-in logs, email triage, host triage, and more, tailored to the entity being investigated.
+- **Client Filtering**: Automatically extracts available workspaces and provides filtering options.
 
 ## Getting Started
 
@@ -18,7 +20,7 @@ The SOC Entity Triage workbook is designed to enhance the triage process for sec
 ### Installation
 1. Navigate to **Azure Sentinel** > **Workbooks** in the Azure portal.
 2. Click on **+ Add workbook**.
-3. Select the **Advanced editor** tab and paste the JSON configuration for the SOC Entity Triage workbook.
+3. Select the **Advanced editor** tab and paste the JSON configuration for the SOC Entity Triage workbook within the ARM template section.
 4. Save the workbook to make it available in your Azure Sentinel environment.
 
 ### Usage
