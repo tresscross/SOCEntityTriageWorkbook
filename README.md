@@ -28,7 +28,7 @@ The SOC Entity Triage workbook is designed to enhance the triage process for sec
 - Select an entity type and specify the entity you wish to investigate.
 - Use the interactive controls to filter by time range and other parameters relevant to your analysis.
 
-![Workbook Preview](https://i.imgur.com/c3jfV01.png)
+![Workbook Preview](https://i.imgur.com/451C8w0.png)
 
 ## Contributing
 Your contributions are welcome! Please feel free to submit pull requests or open issues to improve the workbook or add new features.
