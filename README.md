@@ -20,7 +20,7 @@ The SOC Entity Triage workbook is designed to enhance the triage process for sec
 ### Installation
 1. Navigate to **Azure Sentinel** > **Workbooks** in the Azure portal.
 2. Click on **+ Add workbook**.
-3. Select the **Advanced editor** tab and paste the JSON configuration for the SOC Entity Triage workbook within the ARM template section.
+3. Select the **Advanced editor** tab and paste the JSON configuration for the SOC Entity Triage workbook within the Gallery template section.
 4. Save the workbook to make it available in your Azure Sentinel environment.
 
 ### Usage
